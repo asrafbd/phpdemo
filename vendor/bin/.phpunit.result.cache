@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"ValidatePasswordTest::testValidLength":0.004}}
+{"version":1,"defects":{"ValidatePasswordTest::testValidLength":3},"times":{"ValidatePasswordTest::testValidLength":0.003}}

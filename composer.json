@@ -1,7 +1,6 @@
 {
     "require-dev": {
         "phpunit/phpunit": "9.5.19"
-<<<<<<< HEAD
     },
 
  "autoload": {
@@ -9,8 +8,6 @@
     }
 
 }
-=======
     }
 
  }
->>>>>>> d0a6e018853f4709bda8ac51e6b7bbb6b29d0ed3
